@@ -29,18 +29,11 @@
 
 </div>
 
-## a little about me
+## A little about me
 
 i'm a cybersecurity student at PMU who also spends way too much time thinking about audio, cameras, and building random stuff. i've been an audio engineer for 8+ years, which is a long time to obsess over noise floors and EQ curves.
 
-when i'm not studying threat detection or mixing audio tracks, i'm usually:
-
-- playing games, a lot. this is non-negotiable
-- tinkering with side projects that may or may not ever ship
-- taking photos of things that catch my eye
-- going down a rabbit hole on whatever topic grabbed me this week
-
-## what i'm working with
+### I'm usually working with
 
 <div align="center">
 
@@ -49,17 +42,6 @@ when i'm not studying threat detection or mixing audio tracks, i'm usually:
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
-## github stats
-
-<div align="center">
-
-<br /><br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulaziz-hu&theme=github-dark-blue&hide_border=true" width="49%" />
 
 </div>
 
