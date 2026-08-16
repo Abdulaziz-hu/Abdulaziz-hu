@@ -45,6 +45,14 @@ i'm a cybersecurity student at PMU who also spends way too much time thinking ab
 
 </div>
 
+### Some badges
+
+<div align="center">
+  <a href="https://www.credly.com/badges/2eff0fcb-c54a-4835-8add-97518ea0a645" target="_blank">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120" alt="Basic Cyber Badge">
+  </a>
+</div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" width="100%" />
