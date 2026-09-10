@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/u/171057452?v=4" width="100" style="border-radius:50%" />
 
 # Abdulaziz Alhuzami
-Cybersecurity Student &bull; Audiophile
+Cybersecurity Student &bull; Audiophile &bull; Gamer
 
 [Website](https://abdulazizhu.com) &bull; [CV](https://cv.abdulazizhu.com) &bull; [X](https://x.com/Azizif220) &bull; [LinkedIn](https://www.linkedin.com/in/abdulaziz-alhuzami/) &bull; [Instagram](https://www.instagram.com/abdulazizalhuzami/)
 
