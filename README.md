@@ -12,19 +12,14 @@ Cybersecurity Student &bull; Audiophile
 ## Skills
 
 ### Programming Languages
-<img src="assets/python.svg" width="55" title="Python" style="margin-right: 10px;"/>
-<img src="assets/java.svg" width="55" title="Java" style="margin-right: 10px;"/>
-<img src="assets/html5.svg" width="55" title="HTML5" style="margin-right: 10px;"/>
+<img src="assets/python.svg" width="55" title="Python"/>&nbsp;&nbsp;&nbsp;<img src="assets/java.svg" width="55" title="Java"/>&nbsp;&nbsp;&nbsp;<img src="assets/html5.svg" width="55" title="HTML5"/>
 
 ###
 
 _**Note:** I'm currently learning Python_
 
 ### Tools & Environments
-<img src="assets/linux.svg" width="55" title="Linux" style="margin-right: 10px;"/>
-<img src="assets/git.svg" width="55" title="Git" style="margin-right: 10px;"/>
-<img src="assets/vscode.svg" width="55" title="VS Code" style="margin-right: 10px;"/>
-<img src="assets/pycharm.svg" width="55" title="Pycharm" style="margin-right: 10px;"/>
+<img src="assets/linux.svg" width="55" title="Linux"/>&nbsp;&nbsp;&nbsp;<img src="assets/git.svg" width="55" title="Git"/>&nbsp;&nbsp;&nbsp;<img src="assets/vscode.svg" width="55" title="VS Code"/>&nbsp;&nbsp;&nbsp;<img src="assets/pycharm.svg" width="55" title="Pycharm"/>
 
 ## Badges
 
