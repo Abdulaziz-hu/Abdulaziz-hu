@@ -1,60 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,30&height=200&section=header&text=abdulaziz&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=alhuzami&descSize=20&descAlignY=85&descColor=aaaaaa" width="100%" />
+<img src="https://avatars.githubusercontent.com/u/171057452?v=4" width="100" style="border-radius:50%" />
+
+# Abdulaziz Alhuzami
+Cybersecurity Student &bull; Audiophile
+
+[Website](https://abdulazizhu.com) &bull; [CV](https://cv.abdulazizhu.com) &bull; [X](https://x.com/Azizif220) &bull; [LinkedIn](https://www.linkedin.com/in/abdulaziz-alhuzami/) &bull; [Instagram](https://www.instagram.com/abdulazizalhuzami/)
 
 </div>
 
----
+## Skills
 
-<div align="center">
+### Programming Languages
+<img src="assets/python.svg" width="55" title="Python" style="margin-right: 10px;"/>
+<img src="assets/java.svg" width="55" title="Java" style="margin-right: 10px;"/>
+<img src="assets/html5.svg" width="55" title="HTML5" style="margin-right: 10px;"/>
 
-<a href="https://github.com/Abdulaziz-hu">
-  <img src="https://avatars.githubusercontent.com/u/171057452?v=4" width="120" style="border-radius:50%" />
+###
+
+_**Note:** I'm currently learning Python_
+
+### Tools & Environments
+<img src="assets/linux.svg" width="55" title="Linux" style="margin-right: 10px;"/>
+<img src="assets/git.svg" width="55" title="Git" style="margin-right: 10px;"/>
+<img src="assets/vscode.svg" width="55" title="VS Code" style="margin-right: 10px;"/>
+<img src="assets/pycharm.svg" width="55" title="Pycharm" style="margin-right: 10px;"/>
+
+## Badges
+
+<a href="https://www.credly.com/badges/2eff0fcb-c54a-4835-8add-97518ea0a645" target="_blank">
+  <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="80" alt="Basic Cyber Badge">
 </a>
 
-<br /><br />
+## Credits
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=cybersecurity+student+%40+PMU;audio+engineer+%2F+8%2B+years;photographer+%2F+gamer+%2F+builder;currently+learning+everything)
-
-<br />
-
-**Saudi Arabia** &nbsp;&bull;&nbsp; **Dhahran**
-
-<br />
-
-[![Website](https://img.shields.io/badge/abdulazizhu.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://abdulazizhu.com)
-[![X](https://img.shields.io/badge/@Azizif220-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Azizif220)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulaziz-alhuzami/)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdulazizalhuzami/)
-
-</div>
-
-## A little about me
-
-i'm a cybersecurity student at PMU who also spends way too much time thinking about audio, cameras, and building random stuff. i've been an audio engineer for 8+ years, which is a long time to obsess over noise floors and EQ curves.
-
-### I'm usually working with
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-Learning-0d1117?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-0d1117?style=flat-square&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=white)
-
-</div>
-
-### Some badges
-
-<div align="center">
-  <a href="https://www.credly.com/badges/2eff0fcb-c54a-4835-8add-97518ea0a645" target="_blank">
-    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120" alt="Basic Cyber Badge">
-  </a>
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer" width="100%" />
-
-</div>
+- **Icons:** [theSVG](https://thesvg.org/)
+- **Badges:** [Credly](https://www.credly.com/badges/2eff0fcb-c54a-4835-8add-97518ea0a645)
