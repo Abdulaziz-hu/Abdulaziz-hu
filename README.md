@@ -24,10 +24,14 @@ _**Note:** I'm currently learning Python_
 ## Badges
 
 <a href="https://www.credly.com/badges/2eff0fcb-c54a-4835-8add-97518ea0a645" target="_blank">
-  <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="80" alt="Basic Cyber Badge">
+  <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="80" alt="Introduction to Cybersecurity">
+</a>
+
+<a href="https://www.credly.com/badges/8cb14857-573b-4d80-9432-0b9b80789663" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="80" alt="Python Essentials 1">
 </a>
 
 ## Credits
 
 - **Icons:** [theSVG](https://thesvg.org/)
-- **Badges:** [Credly](https://www.credly.com/badges/2eff0fcb-c54a-4835-8add-97518ea0a645)
+- **Badges:** [Credly](https://www.credly.com/users/abdulaziz-alhuzami.f1aef9d2/badges/credly)
