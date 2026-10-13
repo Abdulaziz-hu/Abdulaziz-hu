@@ -12,7 +12,7 @@ Cybersecurity Student &bull; Audiophile &bull; Gamer
 ## Skills
 
 ### Programming Languages
-<img src="assets/python.svg" width="55" title="Python"/>&nbsp;&nbsp;&nbsp;<img src="assets/java.svg" width="55" title="Java"/>&nbsp;&nbsp;&nbsp;<img src="assets/html5.svg" width="55" title="HTML5"/>
+<img src="assets/java.svg" width="55" title="Java"/>&nbsp;&nbsp;&nbsp;<img src="assets/html5.svg" width="55" title="HTML5"/>
 
 ###
 
