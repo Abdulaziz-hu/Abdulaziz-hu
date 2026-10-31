@@ -16,7 +16,7 @@ Cybersecurity Student &bull; Audiophile &bull; Gamer
 
 ###
 
-_**Note:** I'm currently learning **C++**_
+_**Note:** I'm currently learning **C++ & Go**_
 
 ### Tools & Environments
 <img src="assets/linux.svg" width="55" title="Linux"/>&nbsp;&nbsp;&nbsp;<img src="assets/git.svg" width="55" title="Git"/>&nbsp;&nbsp;&nbsp;<img src="assets/vscode.svg" width="55" title="VS Code"/>
