@@ -12,14 +12,14 @@ Cybersecurity Student &bull; Audiophile &bull; Gamer
 ## Skills
 
 ### Programming Languages
-<img src="assets/java.svg" width="55" title="Java"/>&nbsp;&nbsp;&nbsp;<img src="assets/html5.svg" width="55" title="HTML5"/>
+<img src="assets/python.svg" width="55" title="Python"/>&nbsp;&nbsp;&nbsp;<img src="assets/bash.svg" width="55" title="Bash"/>&nbsp;&nbsp;&nbsp;<img src="assets/powershell.svg" width="55" title="Powershell"/>&nbsp;&nbsp;&nbsp;<img src="assets/html5.svg" width="55" title="HTML5"/>
 
 ###
 
-_**Note:** I'm currently learning **C++ & Go**_
+_**Note:** I'm currently trying to learn **C & C++**_
 
 ### Tools & Environments
-<img src="assets/linux.svg" width="55" title="Linux"/>&nbsp;&nbsp;&nbsp;<img src="assets/git.svg" width="55" title="Git"/>&nbsp;&nbsp;&nbsp;<img src="assets/vscode.svg" width="55" title="VS Code"/>
+<img src="assets/linux.svg" width="55" title="Linux"/>&nbsp;&nbsp;&nbsp;<img src="assets/wireshark.svg" width="55" title="Wireshark"/>&nbsp;&nbsp;&nbsp;<img src="assets/git.svg" width="55" title="Git"/>&nbsp;&nbsp;&nbsp;<img src="assets/vscode.svg" width="55" title="VS Code"/>&nbsp;&nbsp;&nbsp;<img src="assets/zed.svg" width="55" title="Zed"/>
 
 ## Badges
 
